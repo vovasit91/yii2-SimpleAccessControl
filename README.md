@@ -1,1 +1,1 @@
-"# yii2-SimpleAccessControl" 
+# yii2-SimpleAccessControl
